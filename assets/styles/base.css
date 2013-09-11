@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0; }
+body { font-size: .7em;color: #333132; background: #fff; }
+h1 { font-size: 1em; }
+h2 { font-size: 1em; }
+h3 { font-size: 1em; }
+p { font-size: 1em; }
+th { font-size: 1em; text-align: left; }
+td { padding: 0; font-size: 1em; }
+ul { list-style: none; }
+li { position: relative; font-size: 1em; }
+
+img { border: none; }
+form { }
+input, select, textarea { font: 1em Arial, Verdana, sans-serif; }
